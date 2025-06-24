@@ -4,9 +4,9 @@
   left: 50%;
   transform: translateX(-50%);
   background: linear-gradient(
-    to bottom,
+    to right,
     rgba(255, 255, 255, 0.08) 0%,
-    rgba(255, 255, 255, 0.5) 100%
+    rgba(255, 255, 255, 0.5) 200%
   );
   border: 1px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(0px);

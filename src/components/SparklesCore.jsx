@@ -7,7 +7,7 @@ export const SparklesCore = ({
   background = "transparent",
   minSize = 0.6,
   maxSize = 1.4,
-  particleDensity = 100,
+  particleDensity = 70,
   className = "",
   particleColor = "#FFFFFF",
 }) => {
@@ -40,8 +40,8 @@ export const SparklesCore = ({
         this.x = Math.random() * canvas.width
         this.y = Math.random() * canvas.height
         this.size = Math.random() * (maxSize - minSize) + minSize
-        this.speedX = Math.random() * 0.5 - 0.25
-        this.speedY = Math.random() * 0.5 - 0.25
+        this.speedX = Math.random() * 0.25 - 0.125
+        this.speedY = Math.random() * 0.25 - 0.125
       }
 
       update() {
@@ -67,7 +67,7 @@ export const SparklesCore = ({
         if (!ctx) return
         ctx.fillStyle = particleColor
         ctx.beginPath()
-        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2)
+        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 1)
         ctx.fill()
       }
     }
