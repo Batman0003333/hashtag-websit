@@ -15,43 +15,43 @@ const events = {
       title: 'Hack Battle',
       description:
         "Hashtag successfully hosted VCT Hashtag, a high-energy Valorant Tournament, bringing competitive spirit to the forefront. The event highlighted teamwork, strategic thinking, and sportsmanship throughout. Top performers were awarded for their excellence. This tournament marks Hashtag’s commitment to promoting tech and e-sports culture on campus.",
-      image: '/src/assets/eventposters/vct.jpg',
+      image: '/src/assets/eventposters/vct.png',
     },
     {
       title: 'IdeaUtsav',
       description:
         "IdeaUtsav was HashTag’s flagship ideation event where creativity met real-world tech challenges. Teams pitched smart, feasible solutions and competed with sharp ideas and strong collaboration. Top teams earned trophies, certificates, and well-deserved recognition — a true celebration of innovation and problem-solving!",
-      image: '/src/assets/eventposters/ideautsav.jpg',
+      image: '/src/assets/eventposters/ideautsav.png',
     },
     {
       title: 'Brand Brawl',
       description:
         'Brand Brawl is a coding fest- a challenge to design websites with a unique and a captive style. The exciting part? Participants can choose any tech stack. Pick from the given themes and bring them to life with a touch of creativity and innovation',
-      image: '/src/assets/eventposters/brandbrawl.jpg',
+      image: '/src/assets/eventposters/brandbrawl.png',
     },
     {
       title: 'Cryptic Hunt',
       description:
         "Cryptic Hunt isn't just a hunt- It's a mental battlefield. Will your team choose the red pill or the blue? Put your logic to the test and solve your way through the rounds - start online, crack the codes, and pave the way to the real-world treasure where every clue leads you to glory!",
-      image: '/src/assets/eventposters/cryptichunt.jpg',
+      image: '/src/assets/eventposters/cryptichunt.png',
     },
     {
       title: 'Treasure Hunt',
       description:
         'Treasure hunt was an event one of its kind, a mystery filled adventure full of suspense and twists all the way to the end. Every participant gave it their all and showed us their cleverness while solving the carefully curated puzzles and riddles created by the talents at HashTag. With twists and turns at every step, the participants showed they had what it takes to find the ultimate treasure.',
-      image: '/src/assets/eventposters/treasurehunt.jpg',
+      image: '/src/assets/eventposters/treasurehunt.png',
     },
     {
       title: 'Relay Coding',
       description:
         "Hashtag conducted Codetrek'25 Where participants tackled a series of coding tasks under tight time constraints. The event tested not just technical knowledge but also critical thinking and time management. With every level, the competition grew more intense, pushing participants to think fast and code faster. CodeTrek reaffirmed Hashtag’s mission to foster innovation, analytical thinking, and a passion for problem-solving.",
-      image: '/src/assets/eventposters/codetrekrelay.jpg',
+      image: '/src/assets/eventposters/codetrekrelay.png',
     },
     {
       title: 'Codetrek',
       description:
         "CodeTrek Aug'24 lit up the coding scene as teams raced to solve real-time challenges with speed and precision. The event blended logic, pressure, and teamwork — pushing coders to bring their A-game. With intense problem-solving, sharp collaboration, and nonstop energy, CodeTrek wasn’t just a contest — it was a full-blown coding experience.",
-      image: '/src/assets/eventposters/codetrek.jpg',
+      image: '/src/assets/eventposters/codetrek.png',
     },
   ],
 };
